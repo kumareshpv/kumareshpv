@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/kumareshpv">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Kumaresh PV" /></a>
+    <img src="![profile name](https://github.com/user-attachments/assets/66ac5b5c-8859-461b-b9a1-17e5df6daac3)
+" alt="Kumaresh PV" /></a>
 </p>
 
 <p align="center">
