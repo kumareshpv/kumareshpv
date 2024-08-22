@@ -32,7 +32,7 @@ I'm Kumaresh PV, a detail-oriented and results-driven Data Professional with ove
 
 Currently, I'm pursuing a Master's in Information Technology and Management with a specialization in Data Analytics at Illinois Institute of Technology, Chicago. This academic journey has further honed my expertise in Python, SQL, and Splunk, enabling me to design and implement robust data pipelines, conduct in-depth analyses, and contribute to innovative data strategies.
 
-I am passionate about advancing in the dynamic field of data science and am eager to explore opportunities across various data-science roles. My portfolio showcases a range of projects that demonstrate my technical proficiency, problem-solving abilities, and commitment to continuous learning.
+I am passionate about advancing in the dynamic field of data science and am eager to explore opportunities across various data science roles. My portfolio showcases a range of projects that demonstrate my technical proficiency, problem-solving abilities, and commitment to continuous learning.
 
 I'm excited to leverage my skills to architect efficient data systems and contribute to impactful, data-driven decisions. I invite you to explore my work and connect with me for collaboration or professional opportunities.
 
