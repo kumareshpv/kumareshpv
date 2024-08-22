@@ -22,7 +22,7 @@
 
 
 <details open> 
-  <summary><h2>👨‍💻 About </h2></summary>
+  <summary><h2>ℹ️ About </h2></summary>
 
   <p align="left">
 I'm Kumaresh PV, a detail-oriented and results-driven Data Professional with over 2+ years of industry experience as a Programmer Analyst. My career has been centered around coordinating complex big data systems, developing scalable data solutions, and driving business intelligence through advanced data techniques.
@@ -35,6 +35,24 @@ I'm excited to leverage my skills to architect efficient data systems and contri
 
 </details>
 
+<details open> 
+  <summary><h2>👨‍💻 Work Experience</h2></summary>
+
+  <p align="left">
+    
+  **Programmer Analyst, Walmart Mexico Ecommerce Project**  
+  *Cognizant Technology Solutions, Bengaluru | July 2021 – July 2023*
+
+- **Incident Management:** Expedited the resolution of 750+ tickets, prioritizing critical P1 cases and swiftly addressing P2/P3 issues. Achieved a 5% reduction in incoming tickets by focusing on permanent resolution through JIRA tickets.
+
+- **Data-Driven Problem Solving:** Leveraged customer data to resolve over 70% of inquiries and 30% of website issues across Walmart Mexico stores and partners like Zubale. Identified root causes through data pipeline exploration, implementing solutions that ensured smooth data flow and increased operational efficiency.
+
+- **Technical Expertise:** Utilized SQL, Splunk, and Kafka Lenses to manage OPM sales, providing real-time insights and recovering OPM with less than a 4% drop.
+
+- **Sales Performance Enhancement:** Orchestrated 5+ high-impact sales events using data analytics insights, leading to a 7% increase in sales performance for Walmart Mexico.
+
+
+</details>
 
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
