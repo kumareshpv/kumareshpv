@@ -22,7 +22,7 @@
 
 
 <details open> 
-  <summary><h2>ℹ️ About </h2></summary>
+  <summary><h2>👋 About </h2></summary>
 
   <p align="left">
 I'm Kumaresh PV, a detail-oriented and results-driven Data Professional with over 2+ years of industry experience as a Programmer Analyst. My career has been centered around coordinating complex big data systems, developing scalable data solutions, and driving business intelligence through advanced data techniques.
