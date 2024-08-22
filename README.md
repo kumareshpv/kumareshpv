@@ -21,9 +21,6 @@
 <br/>
 
 
-
-<br/>
-
 <details open> 
   <summary><h2>👨‍💻 About </h2></summary>
 
@@ -37,8 +34,6 @@ I am passionate about advancing in the dynamic field of data science and am eage
 I'm excited to leverage my skills to architect efficient data systems and contribute to impactful, data-driven decisions. I invite you to explore my work and connect with me for collaboration or professional opportunities.
 
 </details>
-
-<br/>
 
 
 <details open> 
