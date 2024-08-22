@@ -63,12 +63,13 @@
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+      <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -85,15 +86,23 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000.svg?logo=Splunk&logoColor=white"></a>
+      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
+      <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
+      <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black"></a>
+      <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"></a>
+      <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white"></a>
+      <a href="#"><img alt="Apache Kafka Lenses" src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/AZURE-%230072C6.svg?logo=microsoftazure&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white"></a>
+      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   </p>
 </details>
 
